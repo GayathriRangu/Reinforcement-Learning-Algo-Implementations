@@ -546,4 +546,4 @@ plt.grid(True)
 plt.savefig("loss_chart.png",dpi=300)
 #plt.show()
 
-tar.keep_alive()
+
